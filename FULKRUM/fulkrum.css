@@ -660,14 +660,15 @@ iframe {
   
 }
 
-/* @media (max-width: 428px) {
-  #products {
-    margin: 15% 1%;
-  }
+@media (max-width: 428px) {
+ 
   .chat {
-    margin: 15% 5%;
+    margin: 19% 5%;
   }
-} */
+  .form{
+    margin-bottom: 5rem;
+  }
+}
 
 @media (max-width: 350px) {
   html {
